@@ -10,8 +10,8 @@ try{
   
 } catch(err) {
   
-  topic = "Thank You For Making Me Part Of";
-  thanksto = "Heuristics Informatics Pvt. Ltd.";
+  topic = "Happy New Year";
+  thanksto = "Dear";
 }
 
 function preload(){
