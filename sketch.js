@@ -5,13 +5,13 @@ var letsGo = false;
 
 try{
  
-  var topic = myURL.toString().split(',')[0].substring(1).split('_').join(' '); 
-  var thanksto = myURL.toString().split(',')[1].substring(1).split('_').join(' ');
+  var topic = "Happy New Year"; 
+  var thanksto = myURL.toString().split(',')[0].substring(1).split('_').join(' ');
   
 } catch(err) {
   
-  topic = "Please Enter a Valid";
-  thanksto = "URL";
+  topic = "Happy New Year";
+  thanksto = "Dear";
 }
 
 function preload(){
